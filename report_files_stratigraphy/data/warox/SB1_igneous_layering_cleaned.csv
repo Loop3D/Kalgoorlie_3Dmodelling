@@ -1,0 +1,13 @@
+FEATURE,TYPE,STRIKE,DIP_DIR,DIP,PLUNGE,TREND,RANK,PLOTRANK,EVENT,STRUCTYPEI,ROT_ANGLE,SYMBOL,raster_z,DEM
+"Igneous layering, showing strike and dip",inclined,"105","195","50","0","0","0","0",,ILIN,"105","Igneous layering, showing strike and dip; inclined","457",456.96
+"Igneous layering, showing strike and dip",inclined,"100","190","35","0","0","0","0",,ILIN,"100","Igneous layering, showing strike and dip; inclined","426",426.00
+"Igneous layering, showing strike and dip",inclined,"60","150","25","0","0","0","0",,ILIN,"60","Igneous layering, showing strike and dip; inclined","438",437.89
+"Igneous layering, showing strike and dip",inclined,"125","215","50","0","0","0","0",,ILIN,"125","Igneous layering, showing strike and dip; inclined","473",473.00
+"Igneous layering, showing strike and dip",vertical,"168","78","90","0","0","0","0",,ILVE,"168","Igneous layering, showing strike and dip; vertical","445",445.05
+"Igneous layering, showing strike and dip",inclined,"130","220","50","0","0","0","0",,ILIN,"130","Igneous layering, showing strike and dip; inclined","468",468.00
+"Igneous layering, showing strike and dip",inclined,"135","225","50","0","0","0","0",,ILIN,"135","Igneous layering, showing strike and dip; inclined","440",440.00
+"Igneous layering, showing strike and dip",inclined,"125","215","60","0","0","0","0",,ILIN,"125","Igneous layering, showing strike and dip; inclined","433",433.00
+"Igneous layering, showing strike and dip",inclined,"360","90","70","0","0","0","0",,ILIN,"360","Igneous layering, showing strike and dip; inclined","419",419.18
+"Igneous layering, showing strike and dip",inclined,"5","95","85","0","0","0","0",,ILIN,"5","Igneous layering, showing strike and dip; inclined","449",449.13
+"Igneous layering, showing strike and dip",inclined,"115","205","70","0","0","0","0",,ILIN,"115","Igneous layering, showing strike and dip; inclined","410",410.00
+"Igneous layering, showing strike and dip",inclined,"103","193","35","0","0","0","0",,ILIN,"103","Igneous layering, showing strike and dip; inclined","392",392.00
